@@ -1,0 +1,5 @@
+name="Murica"\
+url="http://www.filefactory.com/file/3ebkob5w29bj/Kodi.zip"
+img=" murica-wizard/Music_Bars_FullHDWpp.com_.jpg "\
+fanart="http://spartanpixel.net/Kodi/spartan/splash.jpg"\
+description="murica setup wizard"}
